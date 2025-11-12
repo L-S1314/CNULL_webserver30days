@@ -1,0 +1,4 @@
+/home/xiaoluo/codes/webserver/webserver/CMakeFiles/server.dir
+/home/xiaoluo/codes/webserver/webserver/CMakeFiles/client.dir
+/home/xiaoluo/codes/webserver/webserver/CMakeFiles/edit_cache.dir
+/home/xiaoluo/codes/webserver/webserver/CMakeFiles/rebuild_cache.dir
